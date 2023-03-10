@@ -1,2 +1,2 @@
-# Acceess-ChatGPT-with-Python
+# Python-Automation-with-ChatGPT
 This repository contains sample code to access ChatGPT with Python. 
