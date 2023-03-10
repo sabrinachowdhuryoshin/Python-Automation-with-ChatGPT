@@ -20,3 +20,6 @@ request_data = {}
 
 # Sending a HTTP POST request to the API endpoint with the request headers and data
 response = requests.post(api_endpoint, headers = request_headers, json = request_data)
+
+
+__build_class__
