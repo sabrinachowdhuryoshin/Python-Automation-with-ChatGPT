@@ -23,6 +23,5 @@ request_data = {
     'temperature': 0.5  # The level of randomness in the generated response
 }
 
-
 # Sending a HTTP POST request to the API endpoint with the request headers and data
 response = requests.post(api_endpoint, headers = request_headers, json = request_data)
