@@ -27,13 +27,13 @@ Before using this script, you will need to have the following:
 
 ## Usage
 
-- To use the script, open the `python-chatgpt.py` file and update the `prompt` variable and the file name with the text you want to generate a response for. The response from the OpenAI server will be saved in the python file name you provided.
+- To use the script, open the `python-chatgpt.py` file and update the `prompt` variable and the `file_name` variable with the text you want to generate a response for. The response from the OpenAI API will be saved in the python file name you provided.
 
 - Then, run the script using the following command:
 
 `python python-chatgpt.py "prompt" "file_name"`
 
-The script will send a request to the OpenAI API and generate a response based on the `prompt` variable. The response will be printed to the console.
+The script will send a request to the OpenAI API and generate a response based on the `prompt` variable. The response will be saved in a python file.
 
 ## License
 
