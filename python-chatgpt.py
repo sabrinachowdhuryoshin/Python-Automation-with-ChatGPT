@@ -46,3 +46,4 @@ if response.status_code == 200:
         file.write(response_text)
 else:
     print(f"\nRequest failed with status code: {str(response.status_code)}\n")
+    
