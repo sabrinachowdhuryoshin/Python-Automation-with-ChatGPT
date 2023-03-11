@@ -1,6 +1,6 @@
 # Python Automation of ChatGPT
 
-Python Automation of ChatGPT contains a Python script that allows you to automate interactions with OpenAI's ChatGPT API. This script will let the user to connect with the Vinci text model of openai. The user can send whatever prompt programmatically and will get a response from the ChatGPT API. This script is useful for automating the process of generating responses to text prompts, such as answering customer support inquiries or generating personalized responses to messages
+Python Automation of ChatGPT contains a Python script that allows you to automate interactions with OpenAI's ChatGPT API. This script will help the user connect with the Vinci text model of openai. The user can send whatever prompt programmatically and will get a response from the ChatGPT API. This script is useful for automating the process of generating responses to text prompts, such as answering customer support inquiries or generating personalized responses to messages
 
 ## Prerequisites
 
