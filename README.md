@@ -37,7 +37,7 @@ The script will send a request to the OpenAI API and generate a response based o
 
 ## License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the Unlicense. See the [LICENSE file](https://unlicense.org/) for details.
 
 ## Contributing
 
